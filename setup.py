@@ -7,11 +7,10 @@ LastEditTime: 2023-04-03 20:08:33
 '''
 
 from setuptools import setup, find_packages
-from pyutils import __version__
 
 setup(
     name="pyutils",
-    version=__version__,
+    version="0.0.2",
     description="Python/Pytorch Utility",
     url="https://github.com/JeremieMelo/pyutility",
     author="Jiaqi Gu",
